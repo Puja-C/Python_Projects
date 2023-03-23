@@ -5,7 +5,7 @@ from email_app import password    # the password for the sender's email is store
 import ssl
 import smtplib
 
-sender = 'pujachat.pc@gmail.com'
+sender = 'youremail@gmail.com'
 password = password
 
 receiver = 'betoye7764@oniecan.com'         # temporary email id generated through google
